@@ -1,0 +1,3 @@
+//windres my.rc -O coff -o my.res
+//https://stackoverflow.com/questions/708238/how-do-i-add-an-icon-to-a-mingw-gcc-compiled-executable
+id ICON "icon.ico"
