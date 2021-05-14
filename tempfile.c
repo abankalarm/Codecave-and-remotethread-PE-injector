@@ -1,0 +1,1 @@
+TCHAR command_exe[260] = TEXT("putty_64.exe");
